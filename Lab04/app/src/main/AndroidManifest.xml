@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="edu.calvin.cs262.dk42">
+    package="edu.calvin.cs262.fdn2">
 
     <application
         android:allowBackup="true"
@@ -9,8 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".OrderActivity"></activity>
-        <activity android:name=".MainActivity">
+        <activity android:name="edu.calvin.cs262.fdn2.OrderActivity"></activity>
+        <activity android:name="edu.calvin.cs262.fdn2.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
