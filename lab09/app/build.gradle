@@ -4,7 +4,7 @@ android {
     compileSdkVersion 29
     buildToolsVersion "29.0.2"
     defaultConfig {
-        applicationId "edu.calvin.cs262.hcp3"
+        applicationId "edu.calvin.cs262.fdn2"
         minSdkVersion 15
         targetSdkVersion 29
         versionCode 1

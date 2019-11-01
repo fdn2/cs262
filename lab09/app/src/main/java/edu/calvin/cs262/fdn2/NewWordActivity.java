@@ -1,4 +1,4 @@
-package edu.calvin.cs262.hcp3;
+package edu.calvin.cs262.fdn2;
 
 import androidx.appcompat.app.AppCompatActivity;
 
